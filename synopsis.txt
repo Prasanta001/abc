@@ -1,6 +1,6 @@
 Introduction
 
-In todayâ€™s world, man struggles to make his life easier.Earlier,companies used a manual system to keep attendence records of every 
+In today’s world, man struggles to make his life easier.Earlier,companies used a manual system to keep attendence records of every 
 employees. The need for monitoring and keep attendance records has assumed high importance to monitor the man-power. 
 In large organizational buildings, where the man-power is high, people are not always in their cabins.They have to wander from room to 
 room, floor to floor to perform their work. In such cases, it becomes extremely difficult to keep a track of people and find them when
@@ -19,3 +19,6 @@ various attendance requests including -
     Over Time
     Attendance regularization
     On-Duty
+
+
+hello
