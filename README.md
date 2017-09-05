@@ -4,7 +4,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
+* EMPLOYEE TRACKING SYSTEM isan all-in-one soluton for all your office needs. Through this system the employee can login within stipulated time and give their attendance failing which they wil lose a day's attendance. The new employees can register before interacting with the system.
+* Also 
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
