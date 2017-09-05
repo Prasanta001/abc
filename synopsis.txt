@@ -50,7 +50,7 @@ depending on the applicable options.
 
 Following are the various assumptions and dependencies made during the creation of this project:
 1.	Every department should have an Admin to manipulate employee information.
-2.	Only admins and higher officials with the minimum rank of Manager have access to other employee information. All other employees have access to their own accounts only.
+2.	Only admins and Office Head have access to other employee information. All other employees have access to their respective accounts.
 3.	Attendance is a major part of the project and the employees have to login to give attendance within stipulated time during the day.
 4.	New employees are expected to register on the day of joining itself.
 5.	Since internet is a must, users are expected to have a decent internet connectivity.
