@@ -65,7 +65,7 @@ External Interface
 
 Advantages
 
-1. Avoids risks of Human fradulence via authentication
+1. Avoids risks of Human fraudulence via authentication.
 2. Eradicates attendance proxies
 3. Online based System
 4. Increases time and attendance security
@@ -78,5 +78,28 @@ Disadvantages
 2. Requires Internet connectivity
 3. Maintenance cost for adminitrator, devices and other resources.
 4. Link failure or server down can increase the rate of false positives and true negatives
-5. Ambiguity may arise as a consequence of inability to synchronize
+5. Ambiguity may arise as a consequence of inability to synchronize.
+
+
+Requirement Analysis
+
+The aim of the requirement analysis is to understand the exact requirement of the customer and to document them properly. During analysis, data is collected on the available files, decision points and transactions held by the current system. 
+This is also the first step in procurement of hardware and software selection. It involves understanding of user requirements within the framework of the organization’s objectives and the environment in which the system is being installed. Requirement Analysis is discussed in details below:
+
+1.	HARDWARE REQUIREMENTS
+Processor: Intel Core i3 or above
+RAM: 2 GB or above
+Hard Disk: 20 GB or more
+Input Devices: Keyboard, Mouse
+Output Device: Monitor
+
+2.	SOFTWARE REQUIREMENTS
+
+1. Java
+2. JavaScript
+3. HTML and CSS
+4. MYSQL
+
+
+
 
