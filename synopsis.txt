@@ -63,4 +63,20 @@ External Interface
 4.	The employee can view his attendance information and the senior executive can track his subordinate’s current location and also view their attendance.
 5.	The employee can login from any machine and send his current location to the server which can be viewed by the senior officials as and when required.
 
+Advantages
+
+1. Avoids risks of Human fradulence via authentication
+2. Eradicates attendance proxies
+3. Online based System
+4. Increases time and attendance security
+5. Increases human availability and productivity
+6. Able to provide 24x7 surveillance
+
+Disadvantages
+
+1. Confined to Campus premises
+2. Requires Internet connectivity
+3. Maintenance cost for adminitrator, devices and other resources.
+4. Link failure or server down can increase the rate of false positives and true negatives
+5. Ambiguity may arise as a consequence of inability to synchronize
 
