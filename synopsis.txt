@@ -48,7 +48,7 @@ depending on the applicable options.
    
    Assumptions and Dependencies
 
-Following are the various assumptions made during the creation of this project:
+Following are the various assumptions and dependencies made during the creation of this project:
 1.	Every department should have an Admin to manipulate employee information.
 2.	Only admins and higher officials with the minimum rank of Manager have access to other employee information. All other employees have access to their own accounts only.
 3.	Attendance is a major part of the project and the employees have to login to give attendance within stipulated time during the day.
@@ -56,4 +56,11 @@ Following are the various assumptions made during the creation of this project:
 5.	Since internet is a must, users are expected to have a decent internet connectivity.
 6.	It is assumed that the user is familiar with an internet browser and also familiar with handling the keyboard and mouse.
 
-External Interfaces
+External Interface
+1.	The member has to register using a form provided on the website.
+2.	The user can input data with the help of the keyboard or click with the mouse wherever necessary. 
+3.	The package provides pull down menus from which the user can select and links and icons to navigate among the web pages. 
+4.	The employee can view his attendance information and the senior executive can track his subordinate’s current location and also view their attendance.
+5.	The employee can login from any machine and send his current location to the server which can be viewed by the senior officials as and when required.
+
+
