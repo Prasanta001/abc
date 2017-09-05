@@ -1,16 +1,19 @@
 Introduction
 
-In today’s world, man struggles to make his life easier.Earlier,companies used a manual system to keep attendence records of every 
-employees. The need for monitoring and keep attendance records has assumed high importance to monitor the man-power. 
-In large organizational buildings, where the man-power is high, people are not always in their cabins.They have to wander from room to 
-room, floor to floor to perform their work. In such cases, it becomes extremely difficult to keep a track of people and find them when
-they are needed.Employee monitoring is the use of various methods of workplace surveillance to gather information about the activities
-and locations of staff members. Businesses monitor employees to improve productivity and protect corporate resources. The main intention
-is to prevent unacceptable behavior in the first place and, should that effort fail, to curtail the behavior before it can have a 
-negative effect on the business.Since all the information is logged in a database, any person in the building will be able to access
-this information through any computer connected to this system and come to know the location of the person he or she is seeking for.
+In today’s world, man struggles to make his life easier.Earlier,companies used a manual system to keep attendence records of each and every 
+employee. The need for monitoring and keeping attendance records has assumed high importance to monitor the man-power engaged. 
+In large organizations, where the man-power is high, people are not always in their cabins.They have to wander from one room to 
+another room, from one floor to another or from one section or block of the building to some other section, block or departments 
+to perform their work. In such cases, it becomes extremely difficult to keep track of employees and find them when
+they are needed or during office hours.Employee monitoring is the process of workplace surveillance to gather information about the 
+locations and activities of staff members. Time is a constraint everywhere. Businesses and corporate life demands dedicated presence of
+employees and so they incorporate a monitoring system to improve availability, productivity and protect organization resources. 
+The main intention is to prevent unacceptable behaviour in the first place and, should that effort fail, to curtail the behavior before
+it can have a negative effect on the business.Since the information remains logged in a database, any personnel in the building will be 
+able to have access to these information through any computer connected to the system and come to know the location of the person he or she
+is seeking for.
 
-Employees as well as admin can now easy view their time and attendance details such as applied, approved, pending and rejected attendance
+Employees as well as admin can now easily view their time and attendance details such as applied, approved, pending and rejected attendance
 requests for the entire year through an intuitive dashboard on their portal homepage. Furthermore, employees have the option of applying 
 various attendance requests including -
     Permission
@@ -19,3 +22,24 @@ various attendance requests including -
     Over Time
     Attendance regularization
     On-Duty
+    
+Scope
+
+1. Efficient and effective automation, supports timekeeping activities, records employee attendance
+2. Digital or manual record system for hours worked
+3. Time and Leave Approval validates submitted time record for an interval of time related to a pay period. 
+   This process includes – 
+    *The review of hours worked
+    *Leaves taken 
+         **Paid 
+         **Unpaid 
+    *Selection of disposition based on timesheet 
+         **Approved
+         **Rejected 
+         **Amended
+4. The leave review process includes the receipt of a leave request and selecting an appropriate response (Approval/Denial/Amended) 
+depending on the applicable options.
+5. Creation, reporting and maintaining of employee schedules.
+6. Validation of work schedules against the state-wide work schedule codes.
+7. Reporting & Analytics - Supports decision-making, strategic workforce, planning and trend identification and provide 
+   robust reporting capability on employee time, leave and scheduling data.    
