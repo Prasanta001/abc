@@ -1,0 +1,21 @@
+Introduction
+
+In today’s world, man struggles to make his life easier.Earlier,companies used a manual system to keep attendence records of every 
+employees. The need for monitoring and keep attendance records has assumed high importance to monitor the man-power. 
+In large organizational buildings, where the man-power is high, people are not always in their cabins.They have to wander from room to 
+room, floor to floor to perform their work. In such cases, it becomes extremely difficult to keep a track of people and find them when
+they are needed.Employee monitoring is the use of various methods of workplace surveillance to gather information about the activities
+and locations of staff members. Businesses monitor employees to improve productivity and protect corporate resources. The main intention
+is to prevent unacceptable behavior in the first place and, should that effort fail, to curtail the behavior before it can have a 
+negative effect on the business.Since all the information is logged in a database, any person in the building will be able to access
+this information through any computer connected to this system and come to know the location of the person he or she is seeking for.
+
+Employees as well as admin can now easy view their time and attendance details such as applied, approved, pending and rejected attendance
+requests for the entire year through an intuitive dashboard on their portal homepage. Furthermore, employees have the option of applying 
+various attendance requests including -
+    Permission
+    Compensation Off
+    Shift Change
+    Over Time
+    Attendance regularization
+    On-Duty
