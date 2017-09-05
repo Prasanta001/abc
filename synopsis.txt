@@ -76,8 +76,8 @@ Disadvantages
 
 1. Confined to Campus premises
 2. Requires Internet connectivity
-3. Maintenance cost for adminitrator, devices and other resources.
-4. Link failure or server down can increase the rate of false positives and true negatives
+3. Maintenance cost for Admin, devices, Databases and other resources.
+4. Link failure or server down can increase the rate of false positives.
 5. Ambiguity may arise as a consequence of inability to synchronize.
 
 
